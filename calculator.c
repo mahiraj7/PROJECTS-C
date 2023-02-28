@@ -3,10 +3,10 @@ int main()
 {
     int a,b,c;
     char ch;
-    printf("press+ for add\n");
-    printf("press-for sub\n");
-    printf("print*for multiply\n");
-    printf("press/for division\n");
+    printf("press + for add\n");
+    printf("press - for sub\n");
+    printf("print * for multiply\n");
+    printf("press / for division\n");
     printf("enter two numbers\n");
     scanf("%d,%d",&a,&b);
     printf("enter your choice");
